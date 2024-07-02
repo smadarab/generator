@@ -69,7 +69,7 @@ repo_id = "huggingfaceh4/zephyr-7b-alpha"
 #     #temperature = 0.5,
 #     # model_kwargs={
 #     # "temperature":0.5},
-#     huggingfacehub_api_token="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",timeout=300
+#     huggingfacehub_api_token="",timeout=300
 # ),
 #     prompt=prompt_template,
 # )
