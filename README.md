@@ -12,14 +12,32 @@ The project is designed with simplicity and flexibility in mind, making it easy 
 ## Getting Started  
   
 Instructions for setting up your project locally. These could include:  
+
+## Prerequisites  
   
-- Prerequisites: What software needs to be installed and what hardware specifications are needed.  
-- Installation: Step-by-step guide to getting a development environment running.  
+This project requires the following software:  
   
-## Usage  
+- Python 3.7+  
+- Pip (Python Package Installer)  
   
-Explain how to use your project. Provide code examples or screenshots as necessary.  
+This project has been tested on the following system:  
   
+- OS: Windows 11 
+- CPU: Octa cores  
+- Memory: 8GB  
+  
+Your system specifications may need to be higher depending on the size of your datasets.  
+  
+## Installation  
+  
+Follow these steps to set up a development environment:  
+  
+1. Clone the repository to your local machine
+2. Navigate to the project directory
+3. create a virtual environment for your project -->python3 -m venv env-->source env/bin/activate
+4. Install the required packages from requiremnt.txt file -->pip install -r requirements.txt
+5. Run  streamlit_synthetic data generator.py Python script  
+
 ## Evaluation metrics
 
 This repository contains code for evaluating synthetic data using a variety of metrics:  
