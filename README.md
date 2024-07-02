@@ -21,10 +21,7 @@ Instructions for setting up your project locally. These could include:
 Explain how to use your project. Provide code examples or screenshots as necessary.  
   
 ## Evaluation metrics
-Sure, here's a README format you can use:  
-   
-# Synthetic Data Evaluation  
-   
+
 This repository contains code for evaluating synthetic data using a variety of metrics:  
    
 ## Metrics  
