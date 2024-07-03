@@ -36,7 +36,7 @@ Follow these steps to set up a development environment:
 2. Navigate to the project directory
 3. create a virtual environment for your project -->python3 -m venv env-->source env/bin/activate
 4. Install the required packages from requiremnt.txt file -->pip install -r requirements.txt
-5. Run  streamlit_synthetic data generator.py Python script
+5. Run  streamlit_synthetic data generator.py Python script using command stream lit run streamlit_synthetic data generator.py
 
 ## How to use
 Click below to watch/download the video to know how to use the app 
