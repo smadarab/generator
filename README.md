@@ -40,7 +40,7 @@ Follow these steps to set up a development environment:
 
 ## How to use
 
-[![Video Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/smadarab/generator/blob/main/syn.mp4)
+[![Video Demo](https://github.com/smadarab/generator/blob/main/652ec20ffbd9a45bcec81932_image1_11zon_e1fb5dcf77.avif)](https://github.com/smadarab/generator/blob/main/syn.mp4)
 
 ## Evaluation metrics
 
