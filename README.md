@@ -39,6 +39,7 @@ Follow these steps to set up a development environment:
 5. Run  streamlit_synthetic data generator.py Python script
 
 ## How to use
+Click below to watch/download the video to know how to use the app 
 
 [![Video Demo](https://github.com/smadarab/generator/blob/main/652ec20ffbd9a45bcec81932_image1_11zon_e1fb5dcf77.avif)](https://github.com/smadarab/generator/blob/main/syn.mp4)
 
