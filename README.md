@@ -39,7 +39,8 @@ Follow these steps to set up a development environment:
 5. Run  streamlit_synthetic data generator.py Python script
 
 ## How to use
-[![Watch the video]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/smadarab/generator/blob/main/syn.mp4))
+
+[![Video Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/smadarab/generator/blob/main/syn.mp4)
 
 ## Evaluation metrics
 
